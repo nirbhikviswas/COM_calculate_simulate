@@ -39,7 +39,7 @@ An interactive, web-based tool for calculating the center of mass for a system o
 
 ## Live Demo
 
-You can access the live version of this simulator here: [Your GitHub Pages Link Will Go Here]
+You can access the live version of this simulator here: https://nirbhikviswas.github.io/COM_calculate_simulate/
 
 ---
 
